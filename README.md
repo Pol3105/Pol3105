@@ -45,7 +45,5 @@ Actualmente centrado en mejorar mis habilidades en **React, Next.js, Tailwind y 
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pol3105&theme=default)
-
 
 ⭐ Gracias por visitar mi perfil, ¡siéntete libre de revisar mis proyectos y conectar!
