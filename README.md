@@ -30,17 +30,22 @@ Git & GitHub
 Figma (UI/UX básico), VSCode, Postman  
 
 **Soporte TIC:**  
-Administración básica de sistemas, resolución de incidencias y mantenimiento de entornos tecnológicos.
+Administración de sistemas, resolución de incidencias, backups semanales, asignación de permisos, mantenimiento de entornos tecnológicos y soporte completo al personal.
 
 ---
 
-## 📂 Proyectos Destacados
+## 💼 Experiencia
 
-- 🔹 **[Web Cliente](link-a-tu-proyecto)**  
-  Web real para cliente, con React y Tailwind. Incluye código en GitHub y demo funcional.
+- **Soporte TIC – Empresa de Biotecnología** (8 meses)  
+  - Gestión completa de todo lo relacionado con sistemas e infraestructura informática.  
+  - Resolución de incidencias técnicas y soporte a usuarios.  
+  - Asignación de permisos y gestión de accesos.  
+  - Realización de **backups semanales** y mantenimiento preventivo.  
+  - Participación en proyectos internos de mejora de procesos TIC.  
 
-- 🔹 **[Proyecto Personal](link-a-tu-proyecto)**  
-  Mini proyecto personal, experimentando con APIs y diseño web.
+---
+
+## 📂 Portfolio con más información sobre mi
 
 - 🔹 **[Portfolio](https://pol3105.github.io/)**  
   Mi portfolio personal donde reúno todos mis proyectos y habilidades.
@@ -59,7 +64,6 @@ Administración básica de sistemas, resolución de incidencias y mantenimiento 
 ## 📫 Conecta conmigo
 
 - **LinkedIn:** En proceso  
-- **Portfolio:** [./](https://pol3105.github.io/)
 - **Email:** pablorejoncamacho@gmail.com  
 
 ---
