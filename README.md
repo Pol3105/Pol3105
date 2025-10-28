@@ -69,6 +69,8 @@ System administration, troubleshooting, weekly backups, permission assignment, m
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to check out my projects and connect.
+
+
 🌐 This profile is also available in Spanish: [Leer en Español](README_ES.md)
 
 ---
