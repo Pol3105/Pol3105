@@ -36,7 +36,7 @@ Administración de sistemas, resolución de incidencias, backups semanales, asig
 
 ## 💼 Experiencia
 
-- **Soporte TIC – Empresa de Biotecnología** (8 meses)  
+- **Soporte TIC – Empresa de Biotecnología** (8 meses sigo actualmente)  
   - Gestión completa de todo lo relacionado con sistemas e infraestructura informática.  
   - Resolución de incidencias técnicas y soporte a usuarios.  
   - Asignación de permisos y gestión de accesos.  
