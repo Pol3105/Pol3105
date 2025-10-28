@@ -1,71 +1,75 @@
-# 👋 Hola, soy Pablo!
+# 👋 Hello, I'm Pablo!
 
 🌍 Erasmus Student | 💻 Junior Web Developer | Frontend & Web Projects  
 
-Actualmente trabajo en una **empresa de biotecnología como soporte TIC**, y sigo centrado en mejorar mis habilidades en **React, Next.js, Tailwind y Node.js**, mientras desarrollo proyectos reales y construyo mi portfolio profesional. Estoy **abierto a aprender todas las ramas de la informática** hasta encontrar la que más me apasione.  
+I currently work at a **biotechnology company as IT Support**, and I am focused on improving my skills in **React, Next.js, Tailwind, and Node.js**, while developing real projects and building my professional portfolio. I am **open to exploring all areas of computing** until I find the one I’m most passionate about.
 
 ---
 
-## 🚀 Objetivos
+## 🚀 Goals
 
-- Alcanzar el nivel **C1 de inglés**.  
-- Construir proyectos propios que demuestren mis habilidades.  
-- Conseguir experiencia real en **desarrollo web y TI**.  
-- Explorar distintas áreas de la informática para definir mi camino profesional.
+- Reach **C1 level in English**.  
+- Build personal projects that showcase my skills.  
+- Gain real experience in **web development and IT**.  
+- Explore different areas of computing to define my professional path.
 
 ---
 
-## 💻 Tecnologías y Habilidades
+## 💻 Technologies & Skills
 
 **Frontend:**  
 HTML, CSS, JavaScript, React, Next.js, Tailwind  
 
-**Backend básico:**  
-Node.js, Express, APIs REST  
+**Basic Backend:**  
+Node.js, Express, REST APIs  
 
-**Control de versiones:**  
+**Version Control:**  
 Git & GitHub  
 
-**Otras herramientas:**  
-Figma (UI/UX básico), VSCode, Postman  
+**Other Tools:**  
+Figma (basic UI/UX), VSCode, Postman  
 
-**Soporte TIC:**  
-Administración de sistemas, resolución de incidencias, backups semanales, asignación de permisos, mantenimiento de entornos tecnológicos y soporte completo al personal.
-
----
-
-## 💼 Experiencia
-
-- **Soporte TIC – Empresa de Biotecnología** (8 meses sigo actualmente)  
-  - Gestión completa de todo lo relacionado con sistemas e infraestructura informática.  
-  - Resolución de incidencias técnicas y soporte a usuarios.  
-  - Asignación de permisos y gestión de accesos.  
-  - Realización de **backups semanales** y mantenimiento preventivo.  
-  - Participación en proyectos internos de mejora de procesos TIC.  
+**IT Support:**  
+System administration, troubleshooting, weekly backups, permission assignment, maintenance of IT environments, and full user support.
 
 ---
 
-## 📂 Portfolio con más información sobre mi
+## 💼 Experience
+
+- **IT Support – Biotechnology Company** (8 months, currently)  
+  - Full management of IT systems and infrastructure.  
+  - Technical incident resolution and user support.  
+  - Permission assignment and access management.  
+  - Performing **weekly backups** and preventive maintenance.  
+  - Participation in internal projects to improve IT processes.  
+
+---
+
+## 📂 Portfolio
 
 - 🔹 **[Portfolio](https://pol3105.github.io/)**  
-  Mi portfolio personal donde reúno todos mis proyectos y habilidades.
+  My personal portfolio showcasing all my projects and skills.
 
 ---
 
-## 🌱 Aprendizaje Actual
+## 🌱 Current Learning
 
-- Mejorando inglés para examen **C1**.  
-- Aprendiendo **TypeScript** y buenas prácticas de desarrollo web.  
-- Explorando colaboración en **proyectos open-source**.  
-- Profundizando en distintas áreas de la informática para descubrir mi especialización.
+- Improving English for **C1 exam**.  
+- Learning **TypeScript** and web development best practices.  
+- Collaborating on **open-source projects**.  
+- Exploring different IT areas to find my specialization.
 
 ---
 
-## 📫 Conecta conmigo
+## 📫 Connect with me
 
-- **LinkedIn:** En proceso  
+- **LinkedIn:** In progress  
 - **Email:** pablorejoncamacho@gmail.com  
 
 ---
 
-⭐ Gracias por visitar mi perfil. ¡Siéntete libre de revisar mis proyectos y conectar!
+⭐ Thanks for visiting my profile! Feel free to check out my projects and connect.
+🌐 This profile is also available in Spanish: [Leer en Español](README_ES.md)
+
+---
+
