@@ -1,77 +1,84 @@
-# 👋 Hello, I'm Pablo!
+# 💻 Hi there, I'm Pablo Rejón Camacho! 👋
 
-🌍 Erasmus Student | 💻 Junior Web Developer | Frontend & Web Projects  
+### 🎓 Computer Engineering Student | 🔬 IT Infrastructure Lead & Full-Stack Developer
+I am a 4th-year Computer Engineering student combining a rigorous academic background with corporate, hands-on experience in critical IT environments. Currently serving as the **IT Infrastructure Lead** at a biotechnology company, I architect scalable software solutions with a strict *Secure by Design* mentality and administer high-availability networks.
 
-I currently work at a **biotechnology company as IT Support**, and I am focused on improving my skills in **React, Next.js, Tailwind, and Node.js**, while developing real projects and building my professional portfolio. I am **open to exploring all areas of computing** until I find the one I’m most passionate about.
-
----
-
-## 🚀 Goals
-
-- Reach **C1 level in English**.  
-- Build personal projects that showcase my skills.  
-- Gain real experience in **web development and IT**.  
-- Explore different areas of computing to define my professional path.
+🌍 **Erasmus Alumnus** at *Università degli Studi Roma Tre* (Rome, Italy).
 
 ---
 
-## 💻 Technologies & Skills
+## 🚀 Featured Engineering Projects
 
-**Frontend:**  
-HTML, CSS, JavaScript, React, Next.js, Tailwind  
+### 🏥 TriajIA — ConciergeMed OS 
+*Advanced Multi-Tenant Hospital Triage Platform (Closed Beta)*
+* **Architecture & Security:** Designed a secure multi-hospital architecture with strict Role-Based Access Control (RBAC) managed via encrypted middleware and an immutable clinical audit log (`EditLog`).
+* **AI Integration:** Implemented the Anthropic Claude SDK utilizing asynchronous logic and adaptive prompting for intelligent, hands-on patient autotriage kiosks.
+* **Stack:** Next.js 14 (App Router), TypeScript, Prisma ORM, PostgreSQL, Docker Compose, Tailwind CSS.
 
-**Basic Backend:**  
-Node.js, Express, REST APIs  
-
-**Version Control:**  
-Git & GitHub  
-
-**Other Tools:**  
-Figma (basic UI/UX), VSCode, Postman  
-
-**IT Support:**  
-System administration, troubleshooting, weekly backups, permission assignment, maintenance of IT environments, and full user support.
+### 🚜 CampoSync 
+*Agricultural Enterprise Resource Management (Digital Field Notebook)*
+* **Compliance & Data:** Built to comply with Spanish FEGA and SIEX regulatory digital standards, utilizing structural data modeling based on real regional frameworks.
+* **Performance Engineering:** Optimized complex SQL query execution plans through custom indexing, reducing database retrieval latency by 35%.
+* **Stack:** React, Vite, Spring Boot (Java), Docker, MySQL.
 
 ---
 
-## 💼 Experience
+## 🛠️ Stack & Systems Taxonomy
 
-- **IT Support – Biotechnology Company** (8 months, currently)  
-  - Full management of IT systems and infrastructure.  
-  - Technical incident resolution and user support.  
-  - Permission assignment and access management.  
-  - Performing **weekly backups** and preventive maintenance.  
-  - Participation in internal projects to improve IT processes.  
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong> Languages & Core</strong><br />
+      • Java (Spring Boot)<br />
+      • Python (Pandas / Automation)<br />
+      • JavaScript / TypeScript<br />
+      • C++ / C#<br />
+      • PHP
+    </td>
+    <td valign="top" width="33%">
+      <strong> Frontend & Frameworks</strong><br />
+      • Next.js 14 (App Router)<br />
+      • React / Vite<br />
+      • Tailwind CSS / HTML5 / CSS3<br />
+      • Figma (UI/UX prototyping)
+    </td>
+    <td valign="top" width="34%">
+      <strong> Infrastructure & Sec</strong><br />
+      • Docker / Docker Compose<br />
+      • Systems & Network Admin<br />
+      • Nmap / Wireshark<br />
+      • PostgreSQL / MySQL / Prisma<br />
+      • Git / GitHub Actions
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📂 Portfolio
+## 💼 Corporate Experience & Metrics
 
-- 🔹 **[Portfolio](https://pol3105.github.io/)**  
-  My personal portfolio showcasing all my projects and skills.
+### 🧬 IT Infrastructure Lead & Support — Rekom Biotech S.L.
+*2024 – Present | Granada, Spain*
+* **Business Continuity:** Programmed autonomous Python automation scripts and active directory structures, reducing weekly backup validation loops and incident resolution times to an average of **<15 minutes**, ensuring 100% data durability.
+* **Disaster Recovery:** Architected strict backup policies and failover recovery testing for highly sensitive scientific datasets, patents, and clinical assay records.
+* **Access Management:** Governed organizational cryptographic access and secure network permissions, achieving a zero-breach security record across cross-functional departments.
 
 ---
 
-## 🌱 Current Learning
+## 🌐 Academic Background & Language Proficiency
 
-- Improving English for **C1 exam**.  
-- Learning **TypeScript** and web development best practices.  
-- Collaborating on **open-source projects**.  
-- Exploring different IT areas to find my specialization.
+* **B.Sc. in Computer Engineering** – *Universidad de Granada (UGR)* | 2022 – Present
+* **International Erasmus Mobility** – *Università degli Studi Roma Tre (Italy)* | 2025 – 2026
+  * *Core Focus:* **Cybersecurity (Passed with 26/30)**, Mobile Computing.
+* **Languages:** Spanish (Native) | English (Advanced, working towards C1 certification).
 
 ---
 
 ## 📫 Connect with me
 
-- **LinkedIn:** In progress  
-- **Email:** pablorejoncamacho@gmail.com  
+* 💼 **LinkedIn:** [in/pablorejoncamacho](https://linkedin.com/in/pablorejoncamacho)
+* 🌐 **Portfolio:** [pol3105.github.io](https://pol3105.github.io/)
+* 📧 **Email:** [pablorejoncamacho@gmail.com](mailto:pablorejoncamacho@gmail.com)
 
 ---
-
-⭐ Thanks for visiting my profile! Feel free to check out my projects and connect.
-
-
-🌐 This profile is also available in Spanish: [Leer en Español](README_ES.md)
-
----
-
+🏁 *Secure by Design, Efficient by Default.*
