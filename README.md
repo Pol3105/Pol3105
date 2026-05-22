@@ -3,7 +3,7 @@
 ### Computer Engineering Student | IT Infrastructure Lead & Full-Stack Developer
 I am a 4th-year Computer Engineering student combining a rigorous academic background with corporate, hands-on experience in critical IT environments. Currently serving as the **IT Infrastructure Lead** at a biotechnology company, I architect scalable software solutions with a strict *Secure by Design* mentality and administer high-availability networks.
 
-**Erasmus Alumnus** at *Università degli Studi Roma Tre* (Rome, Italy), with certified advanced coursework in **Cybersecurity**.
+**Erasmus Alumnus** at *Università degli Studi Roma Tre* (Rome, Italy).
 
 ---
 
